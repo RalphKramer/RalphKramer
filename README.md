@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RalphKramer
 - 👀 I’m interested in R, Python and SAS
-- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on work projects
-- 📫 How to reach me valuetrain@gmail.com 
+- 📫 How to reach me statsninja2@gmail.com 
 
 <!---
 RalphKramer/RalphKramer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
